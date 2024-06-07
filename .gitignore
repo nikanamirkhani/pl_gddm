@@ -1,0 +1,10 @@
+data/
+!data/*.csv
+*.pdf
+*.m
+docs/*
+!docs/*.ipynb
+extras/
+scripts/
+!scripts/*.py
+*.egg-info
